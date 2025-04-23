@@ -5,9 +5,9 @@ A modern and efficient task manager application built using **Rust** for the bac
 
 ## 🚀 Tech Stack
 
-- **Backend:** Rust (Actix Web / Rocket / Axum — choose one)
-- **Frontend:** TypeScript (React / Vue / Angular — specify which one)
-- **Database:** PostgreSQL / SQLite / MySQL (as used)
+- **Backend:** Rust (Actix Web )
+- **Frontend:** TypeScript (React )
+- **Database:** MySQL (as used)
 - **API Communication:** REST / GraphQL (depending on your implementation)
 
 ## 🎯 Features
